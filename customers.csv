@@ -1,0 +1,501 @@
+CustomerID,Name,Age,Gender,Location,SignupDate,CustomerLifetimeValue
+CUST0001,Joseph Murillo,56,Female,Kevinhaven,2023-08-01,4325.58
+CUST0002,Shari Moore,69,Male,Brownfort,2023-08-16,4752.65
+CUST0003,Daniel Turner,46,Male,Floresview,2024-08-10,820.66
+CUST0004,Gabriel Morse,32,Female,Nicholasbury,2022-10-09,4640.28
+CUST0005,Jamie Russell,60,Male,Popeside,2024-02-21,2511.37
+CUST0006,Damon Hansen,25,Male,East Dianechester,2023-12-22,1365.4
+CUST0007,Felicia Nichols,38,Female,North Johntown,2023-09-11,2349.77
+CUST0008,Patricia Trujillo,56,Male,South Danielstad,2024-08-08,4902.16
+CUST0009,Krista Harris,36,Male,Martinezborough,2024-09-04,2513.83
+CUST0010,Jennifer Leach,40,Male,New Amber,2024-04-25,1710.88
+CUST0011,Mr. John Chambers Jr.,28,Female,West Diana,2022-09-08,3203.66
+CUST0012,Michael Pitts,28,Female,Jacobton,2024-01-30,1276.71
+CUST0013,Andre Kerr,41,Female,East Elizabeth,2022-04-29,471.73
+CUST0014,Jared Gonzales,53,Male,East David,2022-01-10,731.51
+CUST0015,Kayla Harrington,57,Male,Deniseberg,2023-04-16,727.42
+CUST0016,Michelle Mcdowell,41,Female,Lake Ninaport,2024-03-31,844.32
+CUST0017,Frank Bass,20,Male,West Davidchester,2022-08-09,780.25
+CUST0018,Katherine Hancock,39,Male,Banksside,2024-06-21,3240.29
+CUST0019,Loretta Sanchez,19,Female,West Ashleyhaven,2024-11-30,991.21
+CUST0020,Joe Howard,41,Female,Lake Lisashire,2023-07-25,1793.77
+CUST0021,Stephen Meyer,61,Male,East Candice,2024-06-26,4494.26
+CUST0022,Mitchell Anderson,47,Male,South Deborah,2024-05-07,2422.41
+CUST0023,Danielle Kemp,55,Male,Tanyamouth,2024-03-19,3371.03
+CUST0024,Brenda Smith,19,Female,Cannonborough,2023-08-05,944.37
+CUST0025,Timothy Matthews,38,Female,Scottside,2024-09-02,1042.22
+CUST0026,Robert Jordan,50,Female,Lake Jonview,2024-09-10,300.26
+CUST0027,Cassandra Delacruz,29,Female,Lake Mitchellburgh,2023-05-20,927.78
+CUST0028,Courtney Myers,39,Male,Port Brentberg,2022-06-02,1465.09
+CUST0029,Dorothy Robbins,61,Female,West Curtis,2023-07-04,967.35
+CUST0030,Harry Nichols,42,Female,New Keith,2022-11-19,534.64
+CUST0031,Jeffrey Giles,66,Female,East Michelle,2022-10-20,691.12
+CUST0032,Brian Collins,44,Female,Clarkfurt,2021-12-14,2357.82
+CUST0033,Danielle Hampton MD,59,Female,Robertsmouth,2022-05-28,1111.04
+CUST0034,Jacqueline Hays,45,Male,Ericfurt,2024-11-24,1884.92
+CUST0035,Carol Cox,33,Male,New Beckyhaven,2024-10-25,2566.74
+CUST0036,Brittany Brown,32,Female,New Edward,2023-12-30,3482.93
+CUST0037,Jessica Walker,64,Male,Smithbury,2024-08-06,292.63
+CUST0038,Sierra Hughes,68,Female,Edwinshire,2024-06-05,4017.11
+CUST0039,Richard Sullivan,61,Female,South Jackchester,2024-05-23,3176.71
+CUST0040,Heather Pollard,69,Male,Guerrerobury,2023-04-21,500.62
+CUST0041,Wanda Turner,20,Male,South Tyler,2024-03-11,4380.54
+CUST0042,David Huffman,54,Female,Lake Johnathan,2024-09-23,4612.27
+CUST0043,David Barajas,68,Female,West Carlmouth,2022-03-08,399.28
+CUST0044,Zoe Miller,24,Female,Hardingshire,2024-03-03,1456.7
+CUST0045,Samantha Hensley,38,Male,Lake Danaville,2024-09-24,4050.39
+CUST0046,Jessica Davis,26,Female,West Scottborough,2022-07-07,3766.47
+CUST0047,Randall Dickerson,56,Female,Port Samantha,2023-04-04,1004.15
+CUST0048,William Woodward,35,Female,East Jillian,2022-12-11,1125.81
+CUST0049,Jose Smith,21,Male,Martinezstad,2023-02-24,1915.31
+CUST0050,Amber Howard,42,Female,Schmidtport,2024-05-31,2474.16
+CUST0051,Paul Wall,31,Female,West Jessica,2024-07-28,3129.45
+CUST0052,Cindy Greene,67,Male,Barnesville,2023-10-27,1907.68
+CUST0053,Laura Brooks PhD,26,Female,South Tracy,2024-01-01,2366.42
+CUST0054,Barbara Coleman,43,Female,Ortizport,2023-08-31,3762.61
+CUST0055,Shawn Sandoval,19,Male,Bennettmouth,2023-08-22,279.75
+CUST0056,Emily Jones,37,Female,South Ronaldland,2023-02-10,1336.94
+CUST0057,Jessica Hodges,45,Male,Michaelmouth,2024-02-15,3595.41
+CUST0058,Mr. Keith Schroeder,64,Male,Contrerasmouth,2022-12-24,4486.51
+CUST0059,Eduardo Lester,24,Female,South Crystal,2023-10-26,2607.22
+CUST0060,Christine Roberts,61,Female,Mossstad,2024-06-07,2707.36
+CUST0061,Lisa Smith,25,Female,South Tara,2024-11-19,625.14
+CUST0062,Richard Underwood,64,Female,East Rebeccaland,2024-05-15,2292.32
+CUST0063,Lori Nelson,52,Male,Brandonton,2022-01-25,2709.82
+CUST0064,Mrs. Christina Russell,31,Female,Sampsonbury,2021-12-30,1288.11
+CUST0065,Sandra Reynolds,34,Male,Huntside,2022-09-04,1419.29
+CUST0066,Jessica Patel,53,Female,Jamesview,2022-06-03,1948.69
+CUST0067,Amanda Gross,67,Female,South Michaelmouth,2022-09-17,198.35
+CUST0068,John Hansen,57,Female,Donnabury,2023-01-12,1678.19
+CUST0069,Michael Walker,21,Male,South Luisshire,2022-04-06,1136.1
+CUST0070,John Tucker,19,Female,Allenview,2021-12-31,1704.74
+CUST0071,Nicholas Perry,23,Female,Shannonfurt,2024-09-23,686.83
+CUST0072,Bryan Hayes,59,Female,Justinland,2024-06-20,4463.58
+CUST0073,Zachary Bates,21,Female,Evansborough,2023-11-22,3008.6
+CUST0074,Anthony Brennan,46,Male,New Stephaniemouth,2022-05-12,3427.6
+CUST0075,Donald Thomas,35,Female,West Graceshire,2022-08-19,3966.94
+CUST0076,Pamela Brown,43,Male,New Sean,2023-12-08,2542.37
+CUST0077,Regina Hernandez,61,Male,Matthewland,2024-05-24,525.91
+CUST0078,Rebecca Dixon,51,Male,Larsonberg,2022-06-01,2731.82
+CUST0079,Jerome Kelly,27,Male,Danielfort,2024-11-01,2975.52
+CUST0080,Roger Hicks,53,Male,East Kimside,2022-06-22,3752.65
+CUST0081,Curtis Clayton,31,Male,Woodshaven,2023-11-04,2215.13
+CUST0082,Lisa Johnson,48,Female,Port Jacob,2023-05-18,725.14
+CUST0083,Eric Kelley,65,Male,Salinasbury,2024-11-24,1490.5
+CUST0084,Craig Smith,32,Male,Kimside,2022-11-26,1879.1
+CUST0085,Veronica Holloway,25,Male,East Laura,2023-11-30,3264.99
+CUST0086,James Morgan,31,Female,East Stephanie,2023-04-11,2896.81
+CUST0087,Amy Hartman,40,Female,New Heatherburgh,2024-05-30,1844.87
+CUST0088,Kristin Ali,57,Male,Paulahaven,2021-12-08,4933.92
+CUST0089,Tiffany Hicks,38,Female,Port Monicahaven,2024-11-07,3068.3
+CUST0090,Angela Andrews,33,Male,Waynemouth,2022-01-29,1262.41
+CUST0091,Daniel Johnson,62,Male,Seanborough,2023-05-29,598.73
+CUST0092,Christina Guzman,35,Female,Wangtown,2024-07-26,849.01
+CUST0093,Kenneth Johnson,64,Male,Bishopchester,2024-04-15,1305.19
+CUST0094,Michael Brown,41,Female,Jonesmouth,2023-07-14,887.34
+CUST0095,Jennifer Gibbs,43,Female,East Bobby,2022-11-05,1014.18
+CUST0096,Anthony Reynolds,42,Male,Annettemouth,2024-09-25,1496.97
+CUST0097,Kimberly Bryant,62,Male,Mahoneyshire,2022-06-14,949.53
+CUST0098,Jay Torres,58,Female,Weaverhaven,2023-12-30,4494.15
+CUST0099,Luke Morales,46,Male,Zacharymouth,2023-06-30,493.15
+CUST0100,Catherine Perkins,32,Male,West Kathryn,2024-11-01,2670.11
+CUST0101,Courtney Chang,62,Male,Elijahfort,2022-11-29,2110.94
+CUST0102,Lauren Hooper,18,Female,Johnside,2024-08-14,4913.66
+CUST0103,Richard Conrad,42,Female,South Debrachester,2022-07-15,648.99
+CUST0104,Tonya Edwards,24,Male,Port Waynehaven,2024-06-21,2049.49
+CUST0105,Mary Diaz,26,Female,Cookberg,2023-06-15,4850.41
+CUST0106,Dr. James Beltran,41,Female,Alvarezville,2024-05-10,4340.98
+CUST0107,Courtney Wilson,18,Female,South Dave,2024-01-04,4103.65
+CUST0108,Caitlyn Jones,61,Female,Hughesbury,2023-04-18,1363.72
+CUST0109,Anthony Stephenson,25,Female,Thomastown,2023-03-02,937.35
+CUST0110,Christopher Thomas,41,Male,Christianshire,2024-03-31,3376.35
+CUST0111,Darren Cruz,28,Male,West Victoriabury,2024-05-09,4653.94
+CUST0112,Nichole Dean,68,Male,South Pamelachester,2022-10-06,2828.14
+CUST0113,Johnny Campbell,34,Female,Alvaradostad,2022-02-01,2900.9
+CUST0114,Paul Moreno,25,Female,Robinsonport,2023-02-10,1471.9
+CUST0115,Hannah Harris DDS,52,Male,East Wandabury,2024-03-04,3870.52
+CUST0116,Anna Brown,52,Female,Lake Jamesport,2024-03-13,1016.51
+CUST0117,Carlos Wheeler,50,Male,Younghaven,2022-05-06,1686.03
+CUST0118,Joseph Morris,22,Male,Feliciaside,2022-03-27,2184.64
+CUST0119,Jacob Mason,59,Male,South Scottchester,2023-12-20,2587.29
+CUST0120,Howard Jones,56,Female,Joneschester,2024-05-12,1287.81
+CUST0121,Susan Foster,58,Female,Port Candaceville,2022-06-08,662.7
+CUST0122,April Crane,45,Male,Griffinbury,2024-07-14,3092.04
+CUST0123,Nicole Pearson,24,Male,East Joseph,2024-11-16,1514.29
+CUST0124,Natalie Boyd,26,Male,North Matthew,2023-09-01,2948.07
+CUST0125,Kathleen Fitzgerald,25,Male,Montgomerychester,2022-10-25,856.38
+CUST0126,Anthony Riley,29,Female,Lozanochester,2023-08-04,2457.59
+CUST0127,Dawn Mann,51,Female,Davidfurt,2024-08-04,2709.69
+CUST0128,Mr. John Rios,50,Male,Port Connie,2024-03-08,353.94
+CUST0129,Dustin Hensley,65,Male,Port Anthonyville,2022-07-17,1749.36
+CUST0130,Martha Sanchez,40,Female,Walterfort,2023-07-07,758.63
+CUST0131,Robert Roberts,41,Female,Lynnmouth,2023-05-08,410.54
+CUST0132,David Ward,54,Male,North Tracy,2024-05-04,4950.81
+CUST0133,Taylor Herman,52,Male,Port Matthew,2022-07-29,1679.53
+CUST0134,Dana Mccarthy,61,Male,South Garytown,2024-08-22,4068.38
+CUST0135,Kimberly Conway,57,Female,East Brittanyport,2024-08-18,1347.74
+CUST0136,Todd Flores,39,Female,Jasonbury,2022-03-29,3439.36
+CUST0137,Connie Ford,44,Female,East Jillberg,2022-02-21,3825.12
+CUST0138,Dr. Cathy Richards,52,Male,Padillaland,2024-07-13,3018.63
+CUST0139,Michael Thomas,18,Male,Garrettchester,2022-12-31,2410.72
+CUST0140,Dustin Nelson,52,Female,Tracyland,2022-10-11,2118.02
+CUST0141,Hannah Fernandez,54,Female,Rodriguezchester,2024-07-19,1809.45
+CUST0142,Mr. Brandon Hicks,64,Male,Pierceborough,2022-11-17,4654.69
+CUST0143,Gail Blair,31,Female,Susanview,2021-12-23,4170.04
+CUST0144,Timothy Adams,20,Female,South Nichole,2023-06-09,4828.63
+CUST0145,Robert Rodriguez,18,Male,Nicholsbury,2023-10-02,709.06
+CUST0146,Edwin Brown,22,Female,Maryshire,2022-03-21,3681.25
+CUST0147,Todd Reyes,43,Male,Chandlermouth,2023-02-09,4697.87
+CUST0148,Jennifer Ramos,31,Male,West Eduardo,2023-06-21,988.04
+CUST0149,Brenda Weber,56,Male,Evanville,2022-01-09,425.83
+CUST0150,Melissa Young,44,Male,Port Rebecca,2023-08-18,3731.49
+CUST0151,Pedro Miller,26,Male,South Zacharymouth,2022-01-22,2914.92
+CUST0152,Nicholas Saunders,32,Male,Meganstad,2022-05-07,4224.96
+CUST0153,Vicki Hopkins,32,Male,Rileyfurt,2022-12-30,784.88
+CUST0154,Maria Le,43,Female,New Thomasshire,2023-08-01,3996.81
+CUST0155,Mark Donovan,59,Male,Rushfort,2024-08-25,1087.97
+CUST0156,Taylor Nelson,30,Male,Christopherborough,2022-02-24,901.91
+CUST0157,Catherine Walker,68,Female,Josephport,2022-11-15,904.9
+CUST0158,Jennifer Adams,49,Female,East Emmaland,2022-03-06,4091.42
+CUST0159,Juan Strickland,56,Female,New Julie,2023-02-04,3359.47
+CUST0160,Rachel Adams,66,Male,East Donaldton,2023-01-20,2663.02
+CUST0161,Daniel Pierce,69,Female,Zacharychester,2022-10-01,1858.27
+CUST0162,Jessica Miller,49,Male,Brianshire,2022-10-26,4398.28
+CUST0163,Henry Adams,21,Male,South Bianca,2021-12-29,2022.98
+CUST0164,Jason Carter,47,Male,New David,2022-11-17,4101.34
+CUST0165,Zachary Russell,54,Male,Simstown,2023-08-27,2251.76
+CUST0166,Ashley Reynolds,40,Female,Ferrellbury,2023-08-28,1947.03
+CUST0167,Kyle Barnett,56,Female,South Terry,2024-08-21,2367.13
+CUST0168,John Ross,62,Male,North Sydney,2024-08-22,1576.75
+CUST0169,Debra Bray,32,Male,Lake Frank,2023-10-27,3763.29
+CUST0170,Kimberly Hoffman,60,Male,Thomaschester,2022-02-11,2563.33
+CUST0171,Kevin Williams,46,Female,West Stephanie,2023-03-05,1237.84
+CUST0172,Brandon Haley,53,Male,East Markstad,2022-07-18,4507.92
+CUST0173,Christy Reeves,30,Male,East Rhonda,2022-05-12,1981.07
+CUST0174,Samantha Williams,49,Female,South Lori,2022-03-30,2763.41
+CUST0175,Heather Martinez,24,Female,New Douglas,2024-02-29,4541.71
+CUST0176,Amy White,68,Male,Kimside,2024-11-07,3158.77
+CUST0177,Nancy Miller,39,Female,Wilsonville,2024-03-04,672.8
+CUST0178,Tiffany Mckee,45,Female,Campbellberg,2023-04-25,4705.18
+CUST0179,Stacey Figueroa,19,Male,Jonesburgh,2024-02-07,3175.77
+CUST0180,Troy Miller,59,Female,Lake Stephanie,2024-03-01,1741.04
+CUST0181,Anthony Barnes,62,Male,Pamelamouth,2023-01-26,782.43
+CUST0182,Eric Hicks,23,Female,Brandonville,2024-06-26,3990.72
+CUST0183,Robin Davis,45,Male,Kristenstad,2024-08-03,3138.36
+CUST0184,Christopher Jones,45,Male,Harrisfort,2022-04-19,2713.96
+CUST0185,Stanley Dawson,61,Male,North Daniel,2024-10-09,4480.07
+CUST0186,Kristina Glover,61,Female,Gilbertfurt,2022-12-18,3964.13
+CUST0187,Susan Guerrero,37,Male,Fosterfort,2024-09-05,843.21
+CUST0188,Tiffany Howell,47,Female,Port Laura,2023-01-01,1627.44
+CUST0189,Helen Owen,28,Male,Port Patriciaton,2022-06-20,1317.6
+CUST0190,Laura Christian,45,Male,Rodriguezberg,2024-06-25,3745.34
+CUST0191,Julian Downs,42,Female,Kellieport,2021-12-27,264.31
+CUST0192,Bonnie Lane,56,Male,Angelabury,2023-09-26,2892.46
+CUST0193,Christopher Marquez,50,Male,Samanthatown,2023-03-19,3836.05
+CUST0194,Paul Carter,18,Female,Smithhaven,2023-10-01,4396.15
+CUST0195,Maria Ramirez,44,Male,New Sarah,2022-09-24,1776.2
+CUST0196,Sharon Dominguez,69,Male,West Annettestad,2024-10-14,4124.16
+CUST0197,Brian Collins,30,Male,Katelynbury,2022-01-09,642.1
+CUST0198,Ronald Dougherty,58,Male,New Aaronport,2023-07-11,4247.62
+CUST0199,Matthew Gill,20,Female,Julianstad,2024-03-16,724.69
+CUST0200,Ian Lam,56,Female,Mejiaberg,2023-10-20,2046.71
+CUST0201,Kathleen Barry,23,Male,Barnesshire,2022-09-19,4006.75
+CUST0202,Kevin Diaz,25,Female,Johnville,2022-12-30,834.6
+CUST0203,Mary Collier,44,Male,Lake Caitlin,2023-07-24,1223.33
+CUST0204,Scott Miller,26,Female,East Keithside,2023-08-26,3639.04
+CUST0205,David Perkins,54,Male,North Jessica,2024-06-17,3628.18
+CUST0206,Kristine Hall,50,Male,Jodishire,2022-10-15,3241.62
+CUST0207,Larry Levy,68,Male,Lake Pamela,2022-07-16,3500.35
+CUST0208,Kimberly Bush,59,Male,New Andrewland,2023-07-07,2759.35
+CUST0209,Dean Baker,61,Male,Benjaminside,2023-04-28,1333.82
+CUST0210,Karina Cohen,41,Male,Port Veronicabury,2022-01-29,1793.91
+CUST0211,Tammy Robbins,32,Female,South Kimberly,2023-12-02,989.83
+CUST0212,Lisa Munoz,49,Male,Heatherville,2021-12-29,4551.41
+CUST0213,Gregory Stanton,49,Female,Deborahfurt,2023-08-27,2958.62
+CUST0214,Michael Rodriguez,41,Male,West Sarah,2024-05-26,2064.17
+CUST0215,Jordan York Jr.,58,Female,East Michael,2024-01-07,2363.83
+CUST0216,Andrea Mcclure,69,Female,Port Blake,2024-01-31,4741.69
+CUST0217,Joseph Stephens,66,Female,Penningtonshire,2022-10-11,851.42
+CUST0218,Mr. Robert Kelly DDS,66,Male,West Jason,2022-04-27,2972.53
+CUST0219,Victor Campbell,69,Male,Kellymouth,2023-09-16,2578.85
+CUST0220,Todd Gutierrez,29,Female,Lunafort,2024-10-28,3096.13
+CUST0221,Kelly Ramirez,56,Male,Elizabethmouth,2024-02-29,188.74
+CUST0222,Joe Alexander,19,Female,Kimmouth,2022-09-30,4373.41
+CUST0223,Matthew Jones,20,Male,Robertchester,2022-03-22,4667.38
+CUST0224,Denise Gray,66,Female,West Scottport,2024-11-03,2869.15
+CUST0225,Ryan Barton DDS,54,Female,Longchester,2024-07-14,3513.59
+CUST0226,Chad Green,66,Male,East Randallbury,2022-10-28,4620.25
+CUST0227,Alison Wilson,34,Female,East Richardmouth,2023-10-22,3565.47
+CUST0228,Jared Mercer,66,Male,Melendezburgh,2022-07-28,847.44
+CUST0229,John Williams,19,Female,Angelaside,2023-04-10,2923.81
+CUST0230,Ryan Jackson,19,Female,South Crystal,2024-01-22,3072.9
+CUST0231,Cody Rosales,45,Male,East Laura,2023-07-31,2178.24
+CUST0232,David Crawford,40,Male,Campbellville,2022-07-05,3708.58
+CUST0233,Carlos Velazquez,54,Male,Darinmouth,2024-01-14,4678.4
+CUST0234,Mark Carter,49,Female,South Christina,2024-10-01,4635.29
+CUST0235,Cynthia Keller,50,Male,Mollyhaven,2022-10-01,2309.11
+CUST0236,Brenda Horn,18,Female,New Billland,2023-03-03,654.87
+CUST0237,Melissa Payne,36,Female,Port Terrymouth,2023-07-26,4925.72
+CUST0238,Lisa Edwards,19,Male,East Maxwell,2023-02-05,4210.6
+CUST0239,Justin Harris,61,Male,Port Joe,2024-02-13,710.85
+CUST0240,Mariah Lane,43,Female,Ashleymouth,2022-06-27,4612.13
+CUST0241,Dustin Byrd,49,Female,Christophermouth,2024-02-04,4362.49
+CUST0242,Jeffrey Hardin,23,Male,South Claudia,2022-06-07,2642.31
+CUST0243,Melissa Lee,49,Male,Melanietown,2022-09-11,2997.25
+CUST0244,Carol Williamson,21,Male,Lake Richard,2023-07-01,2055.11
+CUST0245,Hunter Flores,28,Male,Rebeccaland,2022-11-02,368.33
+CUST0246,Jeffrey Graves,34,Male,Josephhaven,2022-09-30,1742.47
+CUST0247,Philip Green,55,Female,North Shanetown,2023-03-02,4033.98
+CUST0248,Nathan Shaw,41,Female,Andrewmouth,2023-04-15,122.7
+CUST0249,Vanessa Zuniga,22,Female,East Debrahaven,2021-12-10,1734.15
+CUST0250,Randall Bender,69,Female,Leslietown,2022-01-17,2051.03
+CUST0251,Johnny Armstrong,51,Male,Silvaland,2024-11-05,2733.24
+CUST0252,Nicole Barnes,23,Male,Lake Marymouth,2024-08-08,4607.29
+CUST0253,Jonathan Davis,39,Male,Port Joyceborough,2022-12-12,1797.1
+CUST0254,Alicia Davis,28,Female,Lynnville,2022-05-06,1800.07
+CUST0255,Anthony Baker,65,Female,Leestad,2022-05-01,3713.76
+CUST0256,Stacey Fuller,33,Male,Alantown,2022-01-27,2315.87
+CUST0257,Emily Hancock,50,Male,Sierramouth,2023-08-07,1200.56
+CUST0258,Charles Rivera,26,Female,Amandafurt,2022-06-23,2316.95
+CUST0259,Angela Williams,23,Female,Jonathanland,2022-09-15,790.2
+CUST0260,Melanie Nichols,33,Male,Garcialand,2022-09-15,964.3
+CUST0261,Kristine Rodriguez,46,Male,Wadestad,2022-08-31,2542.0
+CUST0262,Carla Shea DVM,20,Female,West Susanhaven,2023-01-03,2152.73
+CUST0263,Julie Brady,37,Male,Tamiside,2022-03-18,4582.74
+CUST0264,Erin Young,53,Male,Garciaville,2023-05-02,1875.73
+CUST0265,Vanessa Mcdonald,36,Male,West Todd,2022-02-08,2944.88
+CUST0266,James Petersen,43,Female,Robinsonchester,2023-06-22,3198.1
+CUST0267,Tracy Ross,20,Female,Johnport,2024-03-20,164.16
+CUST0268,Casey Stephens,36,Female,Barbaraton,2024-01-15,3351.33
+CUST0269,Joshua Gross,37,Female,Lewisfort,2024-05-09,972.38
+CUST0270,Kristen Sanchez,49,Female,Keithstad,2024-06-07,4809.24
+CUST0271,Michelle Cohen,24,Female,New Davidport,2024-07-28,828.45
+CUST0272,William Bush,69,Female,South Daisy,2021-12-15,2131.66
+CUST0273,Kyle Ochoa,58,Male,Lewisburgh,2024-09-11,518.21
+CUST0274,Victoria Lewis,50,Male,Amyshire,2023-01-23,4984.68
+CUST0275,Evan Trujillo,57,Male,Davidberg,2024-04-16,2560.76
+CUST0276,Melissa Boyd,56,Male,Changborough,2024-10-18,3017.39
+CUST0277,William Santos,35,Male,Carlville,2022-11-19,428.67
+CUST0278,Thomas Howell,57,Male,South Travis,2022-04-23,3774.81
+CUST0279,Nancy Daniels,18,Male,Christopherfurt,2024-08-20,1128.54
+CUST0280,David Bishop,28,Female,New Jessica,2023-11-26,4500.47
+CUST0281,Evan Diaz,45,Female,New Sarahborough,2024-09-12,1105.18
+CUST0282,Connie Guzman,42,Male,Burtonmouth,2024-08-30,1034.37
+CUST0283,Thomas Hall,67,Male,East Manuel,2024-07-01,279.09
+CUST0284,Stacy Rodriguez,40,Female,Taylorside,2024-11-10,2413.13
+CUST0285,Jonathan Cook,48,Male,Davidmouth,2024-05-26,2867.72
+CUST0286,Lance Sims,47,Male,Donnaview,2023-03-29,421.97
+CUST0287,Kimberly Rice,59,Female,North Beverly,2023-09-21,3900.09
+CUST0288,Patricia Kelly,52,Male,Danafort,2023-12-26,2321.12
+CUST0289,Nicholas Moss,24,Female,Morenoburgh,2022-04-14,2669.51
+CUST0290,Amanda Meyer,33,Male,Port Janet,2023-06-02,2259.74
+CUST0291,Anna Burns,43,Female,North Crystalland,2022-07-12,2063.74
+CUST0292,Jennifer Miller,65,Female,East Thomas,2022-06-12,2842.24
+CUST0293,Gregory Neal,69,Female,South Elizabeth,2022-03-08,860.68
+CUST0294,Wendy Lewis,66,Male,Donnaville,2024-10-05,991.45
+CUST0295,Sabrina Williams,19,Female,New Tammy,2024-05-17,4322.75
+CUST0296,Rachel Contreras,18,Male,Port Matthew,2022-04-05,4735.97
+CUST0297,Rebecca Jackson,65,Male,Cynthiaton,2022-02-09,1929.22
+CUST0298,Amanda Obrien,29,Male,South Brendanton,2023-11-30,1426.65
+CUST0299,Kara Jones,22,Male,Port Tamara,2022-06-13,3255.6
+CUST0300,Angela Flynn,54,Female,New Gina,2022-09-20,2102.8
+CUST0301,Kara Cummings,49,Female,South Jorgetown,2023-09-16,224.39
+CUST0302,Joshua Smith,26,Male,Lake Bryanfort,2022-11-12,865.15
+CUST0303,Timothy Crosby,58,Male,Danielport,2024-05-14,3608.26
+CUST0304,Richard Taylor,52,Female,Joshuamouth,2023-10-01,3328.73
+CUST0305,Donna Moore,36,Male,Crystalbury,2024-11-30,232.77
+CUST0306,John Hoffman,65,Female,Port Wesley,2023-08-30,1187.66
+CUST0307,Brooke Tran,33,Male,West Helen,2023-04-11,1232.27
+CUST0308,Denise Erickson,20,Male,Evansshire,2023-03-06,3392.27
+CUST0309,Susan Olson,37,Female,East Kevinborough,2021-12-09,196.58
+CUST0310,Danielle Cummings,41,Male,Donnaborough,2022-04-24,610.13
+CUST0311,Sean Campos,50,Female,West Jennifer,2024-02-03,4019.59
+CUST0312,Kyle Johnson,41,Male,Port Allisontown,2023-11-23,974.87
+CUST0313,Nathan Adams,69,Male,South Jay,2022-09-28,3298.46
+CUST0314,Matthew Howell,28,Male,East Samanthafort,2024-01-15,1267.1
+CUST0315,John Munoz,66,Female,Jacksonland,2024-05-21,587.26
+CUST0316,Alexander Rojas,25,Male,Batesfurt,2022-12-07,1291.54
+CUST0317,Charles Moore,53,Male,Joannbury,2022-06-14,3639.11
+CUST0318,James Murphy,55,Male,North Michael,2023-05-17,4292.91
+CUST0319,Dennis Wilson,57,Male,East Brandiport,2023-12-07,4168.08
+CUST0320,Ryan Brown,37,Female,Perezmouth,2024-01-17,2046.2
+CUST0321,Latoya Alvarez,52,Female,Ortizburgh,2024-07-14,3373.62
+CUST0322,Kenneth Jones,65,Male,West Ethanfort,2023-07-13,1104.42
+CUST0323,Jamie Berger,42,Female,New Anthonyburgh,2024-01-01,1536.42
+CUST0324,Mallory Edwards,52,Male,Boydmouth,2022-09-05,4492.05
+CUST0325,Michael Taylor,42,Male,South Tammy,2022-04-07,163.71
+CUST0326,Peter Simpson,46,Male,Sanchezside,2022-10-10,518.99
+CUST0327,Sarah Kim,35,Female,Ericland,2024-02-04,1118.64
+CUST0328,Christopher Mckinney,63,Female,Lake Brianbury,2022-06-24,230.01
+CUST0329,Bethany Ramirez,35,Female,North Kathleen,2024-07-01,989.03
+CUST0330,David Farley,19,Female,Steventown,2022-07-01,2956.9
+CUST0331,Cody Bolton,52,Female,Mendezton,2022-06-06,2164.98
+CUST0332,Dr. Shawn Wall,33,Female,Warnerburgh,2024-11-09,4474.09
+CUST0333,Jane Caldwell,58,Female,Lake Jeanette,2022-01-20,4105.47
+CUST0334,Mark Flores,53,Female,Nicholsfort,2023-10-06,1774.91
+CUST0335,Michael Anderson Jr.,50,Female,Penningtonborough,2023-08-20,1371.17
+CUST0336,Mary Powers,21,Male,Jacobmouth,2024-10-20,1960.49
+CUST0337,Justin Griffith,50,Female,Kimview,2024-11-28,2992.45
+CUST0338,Casey Collier,31,Female,Port Matthewland,2022-04-22,1413.51
+CUST0339,Catherine Buchanan,38,Female,North Emilystad,2024-12-07,3158.33
+CUST0340,Leah Robertson,65,Female,Ronaldbury,2024-05-09,2106.12
+CUST0341,Paula Douglas,37,Female,West Barbaraville,2024-01-11,2805.03
+CUST0342,Kenneth Huffman,25,Female,Perryview,2022-07-24,2237.02
+CUST0343,Joe Ramirez,24,Female,Hugheshaven,2024-06-18,1542.88
+CUST0344,Barbara Wang,20,Female,Lake Andreaberg,2023-07-11,4747.42
+CUST0345,Taylor Brooks,34,Female,Rileyville,2022-03-02,3841.67
+CUST0346,Monica Rogers,50,Female,Emmamouth,2024-08-03,786.55
+CUST0347,William Holder,65,Female,South Lindabury,2022-12-24,4355.49
+CUST0348,Krista Moody,29,Male,Johnsonberg,2023-09-07,2488.41
+CUST0349,Jeffrey Grimes,68,Male,Port Sarahmouth,2022-08-04,4483.31
+CUST0350,Julia Ball,39,Female,Whiteheadborough,2022-10-25,4019.29
+CUST0351,Victoria Lee,39,Female,Michaelport,2022-11-15,2183.55
+CUST0352,Colleen Carpenter,63,Male,Chavezton,2022-03-23,210.1
+CUST0353,Kelly Walker,47,Female,Lindamouth,2023-10-24,1416.52
+CUST0354,Jacob Kelly,55,Male,New Angelica,2021-12-12,2754.01
+CUST0355,Travis Hurst,55,Male,Port Eric,2022-04-01,3204.04
+CUST0356,Brenda Craig,62,Male,North Frederickfort,2022-08-28,1363.65
+CUST0357,Ann Bird,68,Male,North Alexiston,2023-05-05,782.84
+CUST0358,Joseph Moreno,25,Male,Sarahton,2023-11-09,4191.16
+CUST0359,Christopher Weaver,44,Female,Lambshire,2024-09-23,4923.57
+CUST0360,Carolyn Woods,44,Male,Shermanmouth,2024-03-20,2675.88
+CUST0361,Jesse Adkins,51,Female,East Anne,2023-06-23,941.23
+CUST0362,Jenna Hicks,38,Female,West Victoriafurt,2023-08-12,1434.31
+CUST0363,Brandon Ritter,47,Male,Port Phillipborough,2022-09-30,190.11
+CUST0364,Rachel Allen,50,Male,North Leefort,2022-12-01,4580.06
+CUST0365,Denise Martinez,45,Female,Johnburgh,2024-03-17,676.98
+CUST0366,Ashley Campbell,64,Male,West Patriciaside,2022-08-22,2924.93
+CUST0367,Lawrence Ward,50,Male,Cassandraborough,2023-05-09,1442.87
+CUST0368,Cynthia Davis,22,Female,New Jessicaville,2023-09-13,2815.47
+CUST0369,Kerry Thomas,65,Female,South Diamondview,2024-05-10,3291.96
+CUST0370,Kyle Fisher,36,Male,East Patrick,2023-06-04,4165.73
+CUST0371,Margaret Gutierrez,21,Female,Clarkberg,2023-05-28,1111.46
+CUST0372,Randy Ellis,52,Male,Port Sharon,2023-06-27,153.88
+CUST0373,Isaac Brown,66,Male,Cynthiabury,2023-02-04,770.74
+CUST0374,Robert Potts,34,Male,Lake Juanshire,2023-10-09,4510.09
+CUST0375,Tiffany Perez,61,Female,Laraport,2022-07-26,4382.06
+CUST0376,Emily Morales,45,Female,East Benjaminmouth,2023-10-23,3027.32
+CUST0377,Shelby Jones,47,Female,West Julian,2024-10-04,3042.53
+CUST0378,James Smith,46,Female,Watkinsburgh,2023-11-18,3358.68
+CUST0379,John Jackson,63,Female,New Emily,2022-09-22,959.32
+CUST0380,Karla Nelson,23,Male,West Jennifer,2023-05-16,4580.62
+CUST0381,Katherine Gomez,52,Male,West Joshua,2023-04-01,2151.98
+CUST0382,Kathy Olson,58,Male,Port Dennis,2023-07-23,1977.38
+CUST0383,Jonathan Johnson,54,Male,Fieldsfort,2024-04-05,2642.7
+CUST0384,Jessica Gutierrez,41,Female,New Jacob,2022-10-19,330.13
+CUST0385,Gabriela Ortiz,46,Male,Johnshire,2023-06-28,914.79
+CUST0386,Christy Wong,66,Female,New Debbieside,2022-06-11,3716.36
+CUST0387,Brandon Combs,63,Male,West Elizabeth,2023-09-11,505.71
+CUST0388,Robert Rogers,48,Female,East Alyssa,2023-11-03,3055.45
+CUST0389,Ryan Weaver,52,Female,Port Donna,2023-06-09,1302.21
+CUST0390,Jennifer Greene,50,Male,North Jefffurt,2022-07-25,2007.55
+CUST0391,Mary Cox,69,Male,New Robertport,2022-05-05,1514.6
+CUST0392,Lauren Rogers,38,Male,East Jessica,2022-12-26,1842.8
+CUST0393,Brandon Campbell,49,Male,Monicaville,2022-12-26,3623.32
+CUST0394,Denise Bryant,40,Female,East Maryhaven,2022-06-27,1555.9
+CUST0395,Allen Shepherd,50,Male,Lake Brandonshire,2022-02-09,2875.38
+CUST0396,Carol Anderson,20,Male,Jacksonborough,2024-12-05,2432.65
+CUST0397,Lisa Hernandez,35,Female,Lake Amandaport,2023-05-14,3351.99
+CUST0398,Jason Friedman,42,Male,Stephaniehaven,2022-07-24,4690.47
+CUST0399,Jonathon Smith,59,Male,East Jonathanview,2022-08-14,3689.6
+CUST0400,Wyatt Mcdaniel,48,Male,East Bradley,2022-03-19,1153.21
+CUST0401,Brian Pena MD,20,Male,Lake Kevinville,2023-06-21,252.8
+CUST0402,Monica Hansen,57,Male,West Melinda,2022-09-17,1385.09
+CUST0403,Brenda Mendoza,63,Female,Port Samuelborough,2024-11-21,3015.88
+CUST0404,Robert Riley,41,Male,Markmouth,2024-05-10,351.99
+CUST0405,John Barnes,67,Male,Lake Stephanie,2024-05-25,2532.19
+CUST0406,Elizabeth Cooke,49,Male,Walkerhaven,2024-10-29,3024.53
+CUST0407,Richard Wood,64,Male,West Andrew,2024-07-23,1737.8
+CUST0408,Wesley Perez,39,Male,Laurenstad,2024-09-01,3877.47
+CUST0409,Donald Powell,40,Female,North Carlamouth,2024-01-23,622.33
+CUST0410,John Pace,19,Male,Willisburgh,2022-12-26,468.18
+CUST0411,Christopher Patrick,44,Female,South John,2023-11-03,3668.12
+CUST0412,Amanda Torres,59,Female,Williamchester,2023-07-03,2527.91
+CUST0413,Cynthia Parker,19,Male,West Michele,2023-01-22,3473.17
+CUST0414,Craig Rogers,43,Male,Leblanchaven,2022-05-30,2230.65
+CUST0415,Janet Hall,34,Male,West Ashleyland,2022-03-08,1307.37
+CUST0416,Crystal Harrison,57,Male,East Sherrifort,2022-11-11,4113.6
+CUST0417,Robin Jones,50,Female,Josephhaven,2022-07-30,4017.14
+CUST0418,Rebecca Carter,26,Male,Port Kelly,2022-12-07,3504.01
+CUST0419,Christine Austin,60,Male,Lindaville,2024-12-06,1433.51
+CUST0420,James Rubio,65,Male,Michaelfurt,2023-10-20,2992.13
+CUST0421,Carrie Brown,56,Male,Morganside,2023-10-16,1868.77
+CUST0422,Tiffany Miller,46,Male,Williamsberg,2022-05-01,548.75
+CUST0423,Kevin Bradford,59,Male,North Emily,2024-07-01,4594.84
+CUST0424,Tanya Key,43,Female,East Jerry,2022-02-28,770.41
+CUST0425,Curtis Padilla,52,Female,Michaelside,2024-06-30,4756.16
+CUST0426,Kaitlyn Williams,67,Male,Collinsfort,2023-08-26,2285.43
+CUST0427,Laura Clark,42,Male,Barberfort,2024-11-24,1007.15
+CUST0428,Brittany Mcknight,41,Male,West Marychester,2024-06-06,2755.31
+CUST0429,Jeffrey Gill,30,Female,East Michaelberg,2022-01-20,4377.43
+CUST0430,Monica Turner,24,Male,Gardnerbury,2022-11-26,3687.9
+CUST0431,Beth Collins,53,Female,Rodriguezberg,2024-08-20,4052.15
+CUST0432,Stephanie Lane,62,Male,South Peter,2023-06-17,3328.04
+CUST0433,Diane Bernard,37,Male,North Andrewstad,2024-05-05,3492.16
+CUST0434,Roger Franco,18,Male,Gregoryville,2023-10-05,4261.06
+CUST0435,Ronald Allen,25,Male,North Cynthiaview,2024-02-17,1323.37
+CUST0436,James Rice,63,Female,Mcclureville,2023-07-14,2498.18
+CUST0437,Alexandra Green,33,Female,Bensontown,2024-05-18,1183.93
+CUST0438,Crystal Lewis,31,Male,West Guy,2024-03-30,4939.57
+CUST0439,Alyssa Johnson,29,Male,West Brenda,2022-08-13,4725.89
+CUST0440,Tyler Guerrero,68,Female,South Dawn,2024-04-10,293.19
+CUST0441,George Hughes,40,Female,South Amberfurt,2024-03-06,3557.32
+CUST0442,Mary Ortega,32,Female,Thomasview,2022-06-26,4633.72
+CUST0443,Jessica Davies,45,Female,South Scottburgh,2022-05-15,984.82
+CUST0444,Jordan Cunningham,51,Male,North Edward,2024-02-09,2882.93
+CUST0445,Wesley Rodriguez,19,Female,Danieltown,2023-11-18,4585.89
+CUST0446,Cameron Rodriguez,49,Male,South Tiffany,2022-06-29,266.34
+CUST0447,Melanie Hernandez,40,Female,East Heatherview,2022-11-10,3517.36
+CUST0448,Eric King,39,Female,Lake Meredith,2023-05-21,1557.01
+CUST0449,Christine Ferrell,68,Female,North Christopher,2023-07-08,4629.54
+CUST0450,Leah Gomez,42,Female,West Michaelborough,2022-08-09,4858.19
+CUST0451,Andrew Stephens,39,Female,Lake Jamesville,2024-04-30,4726.91
+CUST0452,Jose Taylor,39,Male,North Jameshaven,2024-05-09,2423.65
+CUST0453,Cathy Jones,66,Male,South Andreatown,2021-12-15,4324.01
+CUST0454,William Holland,69,Female,Fosterburgh,2022-04-25,4238.29
+CUST0455,Lisa Thompson,59,Female,Port Michelle,2023-03-23,1663.59
+CUST0456,Julia Kemp,23,Male,South Loriville,2022-12-17,4161.69
+CUST0457,David Simmons,32,Female,Vaughntown,2023-07-31,281.34
+CUST0458,Dennis Warren,60,Female,East Jason,2024-08-12,3021.72
+CUST0459,Leslie Lang,54,Male,Jacobstown,2022-02-08,1227.04
+CUST0460,Jeffrey Shelton,50,Female,Lake Justin,2022-10-11,690.78
+CUST0461,Nicole Jones,25,Female,East Shannonshire,2022-04-23,477.07
+CUST0462,Cynthia Holden PhD,61,Male,Johnsonhaven,2024-10-01,3511.82
+CUST0463,Paul Carlson,61,Male,Michaelchester,2022-01-05,1765.39
+CUST0464,Brandon Johns,22,Male,South Ryan,2024-06-08,3651.36
+CUST0465,Michelle Cruz,56,Female,Samanthamouth,2023-08-18,420.25
+CUST0466,Cynthia Poole,21,Male,Campbellhaven,2022-08-19,1644.92
+CUST0467,Daniel Jenkins,23,Male,Lake Philip,2022-03-04,2743.51
+CUST0468,Cynthia Kane,62,Male,East Jonathan,2023-04-12,3974.54
+CUST0469,Matthew Jackson,49,Male,South Rachel,2023-12-05,1661.89
+CUST0470,Caitlin Santos,69,Male,New Douglasburgh,2023-05-10,3166.87
+CUST0471,Lawrence Smith,47,Male,East Suzanne,2024-08-29,4441.29
+CUST0472,Cynthia Rodriguez,64,Female,Rubenmouth,2023-03-18,3117.73
+CUST0473,Amber Jones,52,Female,Garciamouth,2023-02-18,1241.5
+CUST0474,Melinda Frye,57,Male,Lake Caleb,2024-05-11,219.56
+CUST0475,Julie Johnson,69,Male,Lake Patrick,2024-01-12,4363.48
+CUST0476,Amber Silva,33,Male,Terrystad,2024-07-26,204.22
+CUST0477,Shawn Henry,30,Female,Port Alexismouth,2024-01-02,4386.04
+CUST0478,Jacqueline Brown,67,Female,New Oscar,2023-09-22,2691.79
+CUST0479,Christopher Richardson,59,Female,East Frankfort,2022-07-22,4701.43
+CUST0480,Daniel Smith,47,Female,New Melissa,2023-12-29,4014.04
+CUST0481,Michelle Norton,36,Female,East Brianamouth,2024-03-03,4989.88
+CUST0482,James Hernandez,34,Female,Port Nataliefurt,2024-02-25,1818.49
+CUST0483,Michaela Chen,36,Female,Jenniferbury,2024-01-18,3859.22
+CUST0484,Penny Davila,45,Female,East Richardstad,2023-11-17,2069.46
+CUST0485,Barbara Dudley,43,Female,Scottshire,2024-10-24,2451.39
+CUST0486,Melanie West,54,Male,South James,2022-12-18,3174.78
+CUST0487,Carol Gallegos,43,Male,West Emily,2022-10-30,4381.02
+CUST0488,Robert Francis,40,Male,North Thomasport,2024-07-30,4922.01
+CUST0489,Johnny Sanford,26,Male,South Tonyview,2024-04-09,3864.54
+CUST0490,Caleb Miller,29,Female,Hornville,2024-08-31,2147.06
+CUST0491,Loretta Nelson,18,Female,Jeremystad,2022-12-05,2164.65
+CUST0492,Tyler Montgomery,18,Male,New Erikamouth,2022-03-04,3714.15
+CUST0493,Stephanie Jenkins,64,Female,Port Gail,2022-02-23,1270.01
+CUST0494,Amy Powell,51,Male,Mannchester,2023-07-29,641.32
+CUST0495,Matthew Thomas,49,Female,Port Haroldmouth,2024-07-06,1837.65
+CUST0496,Jennifer Ross,65,Male,Gatesmouth,2024-08-16,1507.47
+CUST0497,Aaron Carlson,42,Female,West Annaport,2023-02-07,1551.91
+CUST0498,Elizabeth Thompson,57,Female,East Kayla,2022-03-01,1244.68
+CUST0499,Debbie Miles,62,Male,Mitchellview,2024-02-20,306.26
+CUST0500,Rachael Dean,18,Female,Victorstad,2023-02-27,187.58
